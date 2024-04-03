@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "double-skyline-367316",
+  "private_key_id": "97bf3012d80ecb65798312519431f50ed933985d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+OHtEHdx0/g5W\nbLTcydUnpbfxvGEHf0uGX4hoqZnjBl89mwYqitEh1rG/4su57uhe5gk46pF0yO4z\nUriKXEXyPKrV96ekh11M+ypS84BrlOSgTrlYdl9rD04CkOuIctCvkbWq/eFNb8ZI\ng3mVyQquiM9ei+3pCOytIavuKAsoBBuVFo9zCv9KIqoBAnCjJ+HizgwgjR4Ugtnn\n976xUOyJDICjzsn772TmSByDM/Ug2Vc7RnGrUd3RB+OTFqRAJsQ+fLlZxezYReOX\nHC9FA/V/aF4NMzoNdEWAAdIf6e4Dd+RL0bluq+/Sj1xPL80hMfkqTHFLxD3Nad1j\nZJNJw6MVAgMBAAECggEADgvuslOALZV7Ko+hdXJkDqbyo+O0yJByW8xfLtdjWTvl\nuY9ij66rjdOkUZamU6ccOrHC+ZR8xEJ4MIsJvJHeymoHdYBxvTkPvzkG4ZRApfEb\nRuk5T5qCJk49hPv9oJhV57kbULKpugWofz9SMajkZIoOwh0UJvK1Q32qjA4h8MTo\nLc/Wd9IgSNFeh6bUKrNak0JUJLZnvvuiNgikWo1RvGEMoIMimC5FY6OvzCxz9RJF\nz2Etho/94CaGQdCa9DekNgTm5X41dJf1LKhbfRn7ge+XvZFiVuPWkYABfd4WogsN\nGitUwF0M1Rr52IbATPJYgIVPxlJuTCPwBcQfyShLCwKBgQDv/BuQ7jAoXhr7SzWV\nTk7CeEh7pTv0T4aUyHeUIPWX3u6gXSBF4Gm43Stw1Wi0Ndv1J4uBpRYAyYDryMLk\nWehv3YIGyAbQUpUYJkCWfLFUOO/JxzLyS0c+OIV0COgiEDFHRRTkaJ7xEx0Sh11j\nEOIECKK83P9j+OssDPvkIlEwXwKBgQDK6jRY6c5FS/PTymKRWhxDHcWTfqWkvKJH\nu46+4TPGMxuFlETtCl0l/ynEJs+3b0aMH3lm5mNob0P6O24vNMrATwp3MmRrpEUv\nmN+b/CoT76IzWxMJnYIXNcmZXmpFL4RWct1eXPI+qrh1w+A61337RlTC63BQQ9Uy\n5oWXGNfRCwKBgBUC877qu9is9JvP5+8cnhS0x1PcEbXASL46Fw4nHJmhcS8lODAm\nB9uhsa39YV91375FKhe9xoFnIxyBxV6M6Kbys/G4DbCrqlYk8z65yCThn00BXdqM\n8L3n4PdZ2EkzNb1RtRSSfGgLDl6S74A++Cr2PplemBW+s4h10pAU2RrtAoGAGsj9\nrfr3Aoi7H+roRf2aG3XznburC+rmlQd6GVJK7k/SwzhGPPAQSbK8BauF4dXrfxWs\nhdvFpYSCeaacrdiPJwGIBSH+xYLCqzzHz6RivYz1YUgVZECJapzsBrXC220hT/QL\nqqgkRgdtIAaCM+I8PA4VpEFF6yJ5IyXw3ngmDO8CgYAnh0IclQhuliFGvid0GxTt\n4jWa3vNJ2r37oV3sV5GMq6FYr+i9l7pm0mNhfNRKcDwgH/aO1ZoRcFgBfkktsotx\n4CVFzNTMQ/sBsSAx1dYhNLU6cwVUHV3roMMruIoW2QgIrD0at27S+WhUi/SFKqw7\nsWzrh2Qj0Iz8agSnOW3Lxg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformuser12-sa@double-skyline-367316.iam.gserviceaccount.com",
+  "client_id": "106015805252008555703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformuser12-sa%40double-skyline-367316.iam.gserviceaccount.com"
+}

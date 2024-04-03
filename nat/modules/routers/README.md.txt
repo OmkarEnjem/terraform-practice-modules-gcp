@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| varible               | Mandatory   | Type   |       Description                                                                                                                    |                    
+|-----------------------|-------------|--------|--------------------------------------------------------------------------------------------------------------------------------------|
+| router_block          | Yes         | map    | Its a parent object                                                                                                                  |
+| name                  | Yes         | string | Describe the name of the router                                                                                                     |
+| project_id            | No          | string | Under which organisation or project we have to create it                                                                             
+| Network               | No          | string | which network we have to create it                                                                                                      
+| asn                   | No          | string | specific ASN number associated with router  |(64512-65534, 4200000000-4294967294) that you are not already using in the on-premises network; Cloud Router requires you to use a private ASN, but your on-premises ASN can be public or private.                                                                                           
+| advertise_mode        | No          | string | User-specified flag to indicate which mode to use for advertisement. Default value is DEFAULT. Possible values DEFAULT and CUSTOM, with DEFAULT, advertised_groups not required.
+| advertise_groups      | No          | string | This field can only be populated if advertiseMode is CUSTOM and is advertised to all peers of the router. These groups will be advertised in addition to any specified prefixes.
+| advertised_ip_ranges  | No          | string |  These IP ranges will be advertised in addition to any specified groups. Leave this field blank to advertise no custom IP ranges. 
+| prefix                | No          | string | It is the prefix attached to project name                                                                                            |        
+| region                | No          | string | In which region we have to create it                                                                                                                                                                                  |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
